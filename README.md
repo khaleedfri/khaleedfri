@@ -1,4 +1,6 @@
 ## Hi there, I'm Khaleed 👋
+
+### I'm a software developer
 <!--
 **khaleedfri/khaleedfri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
