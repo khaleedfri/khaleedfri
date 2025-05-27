@@ -3,7 +3,7 @@
 ### I'm a software developer from Azerbaijan
 
 - 🔭 I’m currently working on networking
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning javascript
 <!--
 **khaleedfri/khaleedfri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
